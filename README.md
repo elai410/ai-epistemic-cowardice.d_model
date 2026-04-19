@@ -190,7 +190,7 @@ MIT.
 ## Citation
 
 ```
-[Team Name] (2026). Philosophical Position Robustness in Reasoning Models:
+Lai E., Zhou A., Song J., Lin E. (2026). Philosophical Position Robustness in Reasoning Models:
 A Null Result on Sycophancy and What the Residual Variance Reveals.
 HackPrinceton Spring 2026, d_model track.
 ```
