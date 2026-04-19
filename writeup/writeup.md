@@ -1,6 +1,8 @@
 # Philosophical Position Robustness in Reasoning Models: A Null Result on Sycophancy and What the Residual Variance Reveals
 
 **HackPrinceton Spring 2026 — d_model Alignment & Mechanistic Interpretability Track**
+**Team:** Edward Lai, Andrew Zhou, Joshua Song, Evan Lin
+**Date:** April 2026
 
 ---
 
